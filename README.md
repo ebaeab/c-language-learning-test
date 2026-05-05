@@ -1,12 +1,14 @@
-# C Language Learning Test
+# C语言学习测试
 
-A repository for C language learning and testing.
+C语言学习与测试仓库。
 
-## Files
+[English](./README_EN.md)
+
+## 文件
 
 ### arr_test.c
 
-A simple array test program demonstrating:
-- Array initialization with `{0}`
-- Storing character ASCII values in integer arrays
-- Array subscript syntax: `arr[i]` is equivalent to `i[arr]`
+一个简单的数组测试程序，演示：
+- 数组初始化 `{0}`
+- 将字符ASCII值存储在整型数组中
+- 数组下标语法：`arr[i]` 等价于 `i[arr]`
